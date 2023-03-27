@@ -1,0 +1,11 @@
+﻿“game.3.8.exe”(Win32): 已加载“D:\代码学习\game.3.8\Debug\game.3.8.exe”。已加载符号。
+“game.3.8.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“game.3.8.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“game.3.8.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“game.3.8.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“game.3.8.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x55a8 已退出，返回值为 0 (0x0)。
+线程 0x274c 已退出，返回值为 0 (0x0)。
+线程 0x6edc 已退出，返回值为 0 (0x0)。
+线程 0x6f0c 已退出，返回值为 -1073741510 (0xc000013a)。
+程序“[24948] game.3.8.exe”已退出，返回值为 -1073741510 (0xc000013a)。
