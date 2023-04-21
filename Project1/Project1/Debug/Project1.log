@@ -1,0 +1,2 @@
+﻿  Class.cpp
+D:\代码学习\Project1\Project1\Class.cpp(266): error C4700: 使用了未初始化的局部变量“p”
