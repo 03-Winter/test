@@ -1,0 +1,12 @@
+﻿“test 5-5.exe”(Win32): 已加载“D:\代码学习\test 5-5\Debug\test 5-5.exe”。已加载符号。
+“test 5-5.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“test 5-5.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“test 5-5.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“test 5-5.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“test 5-5.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x3a74 已退出，返回值为 0 (0x0)。
+“test 5-5.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“test 5-5.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+线程 0x499c 已退出，返回值为 0 (0x0)。
+线程 0x4e48 已退出，返回值为 0 (0x0)。
+程序“[13204] test 5-5.exe”已退出，返回值为 0 (0x0)。
