@@ -1,3 +1,0 @@
-﻿  test.c
-D:\代码学习\test 5-13\test 5-13\test.c(46,11): warning C4133: “函数”: 从“stu [3]”到“int *”的类型不兼容
-  test 5-13.vcxproj -> D:\代码学习\test 5-13\Debug\test 5-13.exe
