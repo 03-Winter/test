@@ -1,0 +1,4 @@
+﻿  EasyX_11_01.cpp
+D:\代码学习\EasyX_11_01\EasyX_11_01\EasyX_11_01.cpp(18,49): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\代码学习\EasyX_11_01\EasyX_11_01\EasyX_11_01.cpp(19,49): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  EasyX_11_01.vcxproj -> D:\代码学习\EasyX_11_01\Debug\EasyX_11_01.exe
