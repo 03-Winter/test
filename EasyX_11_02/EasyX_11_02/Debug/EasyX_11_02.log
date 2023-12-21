@@ -1,0 +1,5 @@
+﻿  EasyX_11_02.cpp
+D:\代码学习\EasyX_11_02\EasyX_11_02\EasyX_11_02.cpp(61,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\代码学习\EasyX_11_02\EasyX_11_02\EasyX_11_02.cpp(61,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\代码学习\EasyX_11_02\EasyX_11_02\EasyX_11_02.cpp(146,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  EasyX_11_02.vcxproj -> D:\代码学习\EasyX_11_02\Debug\EasyX_11_02.exe
