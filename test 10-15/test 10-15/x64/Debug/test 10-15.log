@@ -1,3 +1,0 @@
-﻿  test.c
-D:\代码学习\test 10-15\test 10-15\test.c(95,16): warning C4013: “getch”未定义；假设外部返回 int
-  test 10-15.vcxproj -> D:\代码学习\test 10-15\x64\Debug\test 10-15.exe
