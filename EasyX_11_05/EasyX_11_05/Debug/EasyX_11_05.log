@@ -1,0 +1,4 @@
+﻿  EasyX_11_05.cpp
+D:\代码学习\EasyX_11_05\EasyX_11_05\EasyX_11_05.cpp(60,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\代码学习\EasyX_11_05\EasyX_11_05\EasyX_11_05.cpp(61,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  EasyX_11_05.vcxproj -> D:\代码学习\EasyX_11_05\Debug\EasyX_11_05.exe
