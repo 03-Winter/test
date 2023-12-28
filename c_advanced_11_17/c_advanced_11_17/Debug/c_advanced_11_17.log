@@ -1,0 +1,9 @@
+﻿  Park.c
+  test.c
+  正在生成代码...
+test.obj : error LNK2005: _cost 已经在 Park.obj 中定义
+test.obj : error LNK2005: _j 已经在 Park.obj 中定义
+test.obj : error LNK2005: _k 已经在 Park.obj 中定义
+test.obj : error LNK2005: _truck 已经在 Park.obj 中定义
+test.obj : error LNK2005: _van 已经在 Park.obj 中定义
+D:\代码学习\c_advanced_11_17\Debug\c_advanced_11_17.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
