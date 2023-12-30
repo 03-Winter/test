@@ -1,0 +1,8 @@
+﻿D:\c语言应用\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(c_advanced.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  list.c
+D:\代码学习\c_advanced\c_advanced\list.c(22,37): warning C4013: “realloc”未定义；假设外部返回 int
+D:\代码学习\c_advanced\c_advanced\list.c(25,8): warning C4013: “exit”未定义；假设外部返回 int
+D:\代码学习\c_advanced\c_advanced\list.c(58,6): warning C4013: “free”未定义；假设外部返回 int
+D:\代码学习\c_advanced\c_advanced\list.c(118,12): warning C4098: “SeqListfind”:“void”函数返回值
+D:\代码学习\c_advanced\c_advanced\list.c(121,11): warning C4098: “SeqListfind”:“void”函数返回值
+  c_advanced.vcxproj -> D:\代码学习\c_advanced\Debug\c_advanced_11_14.exe
