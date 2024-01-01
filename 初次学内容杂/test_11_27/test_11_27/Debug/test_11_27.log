@@ -1,0 +1,4 @@
+﻿  test.c
+D:\代码学习\test_11_27\test_11_27\test.c(6,25): warning C4098: “reverse”:“void”函数返回值
+D:\代码学习\test_11_27\test_11_27\test.c(9,31): warning C4098: “reverse”:“void”函数返回值
+  test_11_27.vcxproj -> D:\代码学习\test_11_27\Debug\test_11_27.exe
