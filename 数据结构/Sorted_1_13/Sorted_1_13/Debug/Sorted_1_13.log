@@ -1,0 +1,3 @@
+﻿  sorted.cpp
+D:\代码学习\Sorted_1_13\Sorted_1_13\sorted.cpp(128,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Sorted_1_13.vcxproj -> D:\代码学习\Sorted_1_13\Debug\Sorted_1_13.exe
