@@ -1,0 +1,3 @@
+﻿  quickSort.cpp
+D:\代码学习\Sort_1_14\Sort_1_14\quickSort.cpp(63): warning C4715: “GetMidIndex”: 不是所有的控件路径都返回值
+  Sort_1_14.vcxproj -> D:\代码学习\Sort_1_14\Debug\Sort_1_14.exe
