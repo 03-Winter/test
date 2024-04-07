@@ -1,0 +1,4 @@
+﻿  quicksort.cpp
+D:\代码学习\advanced_sort_1_26\advanced_sort_1_26\quicksort.cpp(41): warning C4715: “GetMidIndex”: 不是所有的控件路径都返回值
+D:\代码学习\advanced_sort_1_26\advanced_sort_1_26\quicksort.cpp(84): warning C4715: “PartSort2”: 不是所有的控件路径都返回值
+  advanced_sort_1_26.vcxproj -> D:\代码学习\advanced_sort_1_26\Debug\advanced_sort_1_26.exe
