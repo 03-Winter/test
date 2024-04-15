@@ -1,0 +1,4 @@
+﻿  stringtest.cpp
+D:\代码学习\C++\stringtest_3_18\stringtest_3_18\string.h(191,15): warning C4018: “>=”: 有符号/无符号不匹配
+D:\代码学习\C++\stringtest_3_18\stringtest_3_18\string.h(211,14): warning C4018: “>=”: 有符号/无符号不匹配
+  stringtest_3_18.vcxproj -> D:\代码学习\C++\stringtest_3_18\Debug\stringtest_3_18.exe
