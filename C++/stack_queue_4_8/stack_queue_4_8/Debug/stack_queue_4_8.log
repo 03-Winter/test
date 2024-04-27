@@ -1,0 +1,3 @@
+﻿  stack_queue.cpp
+D:\代码学习\C++\stack_queue_4_8\stack_queue_4_8\stack_queue.cpp(87,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  stack_queue_4_8.vcxproj -> D:\代码学习\C++\stack_queue_4_8\Debug\test_stack_queue_4_8.exe
