@@ -1,0 +1,7 @@
+﻿  priority_queue.cpp
+D:\代码学习\C++\priority_queue_4_10\priority_queue_4_10\priority_quue.h(64,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码学习\C++\priority_queue_4_10\priority_queue_4_10\priority_quue.h(59): message : 在编译 类 模板 成员函数“void zjl::priority_queue<int,std::vector<int,std::allocator<int>>,zjl::greater<int>>::Adjustdown(int)”时
+D:\代码学习\C++\priority_queue_4_10\priority_queue_4_10\priority_quue.h(87): message : 查看对正在编译的函数 模板 实例化“void zjl::priority_queue<int,std::vector<int,std::allocator<int>>,zjl::greater<int>>::Adjustdown(int)”的引用
+D:\代码学习\C++\priority_queue_4_10\priority_queue_4_10\priority_quue.h(108): message : 查看对正在编译的 类 模板 实例化“zjl::priority_queue<int,std::vector<int,std::allocator<int>>,zjl::greater<int>>”的引用
+D:\代码学习\C++\priority_queue_4_10\priority_queue_4_10\priority_quue.h(66,16): warning C4018: “<”: 有符号/无符号不匹配
+  priority_queue_4_10.vcxproj -> D:\代码学习\C++\priority_queue_4_10\Debug\priority_queue_4_10.exe
