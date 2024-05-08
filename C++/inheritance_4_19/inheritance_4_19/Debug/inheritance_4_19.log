@@ -1,0 +1,3 @@
+﻿D:\c语言应用\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(inheritance_and__4_19.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  inheritance.cpp
+  inheritance_4_19.vcxproj -> D:\代码学习\C++\inheritance_4_19\Debug\inheritance_and_polymorphic_4_19.exe
