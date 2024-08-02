@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\代码学习\C++\SmartPtr_5_28\SmartPtr_5_28\test.cpp(48,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\代码学习\C++\SmartPtr_5_28\SmartPtr_5_28\test.cpp(55,25): warning C4018: “<”: 有符号/无符号不匹配
+  SmartPtr_5_28.vcxproj -> D:\代码学习\C++\SmartPtr_5_28\Debug\SmartPtr_5_28.exe
